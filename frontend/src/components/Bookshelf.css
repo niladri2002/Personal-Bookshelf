@@ -1,0 +1,14 @@
+.bookshelf {
+  padding: 20px;
+  text-align: center;
+}
+
+.bookshelf-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.bookshelf h1{
+  color: white; 
+}
+
